@@ -24,5 +24,5 @@ This repository contains a 2-player Snake and Ladder game developed using JavaFX
 1. Clone the repository:
 
 ```bash
-[https://github.com/sahildongre20/Snake-and-Ladder](https://github.com/sahildongre20/Snake-and-Ladder.git)https://github.com/sahildongre20/Snake-and-Ladder.git
+git clone  https://github.com/sahildongre20/Snake-and-Ladder
 cd snake-and-ladder
