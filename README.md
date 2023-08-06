@@ -1,5 +1,5 @@
 # Snake and Ladder Game
-![Snake and Ladder Game](Snl.png)
+![Snake and Ladder Game](SnL.png)
 
 
 ## Overview
